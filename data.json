@@ -1,0 +1,62 @@
+
+{
+	"clients": [
+
+	{
+		"name": "Cleo Wolf",
+		"phone": "1-673-617-9774",
+		"email": "curabitur.massa.vestibulum@hotmail.com",
+		"address": "6193 At, Rd.",
+		"postalZip": "826464",
+		"list": 11,
+		"text": "luctus vulputate, nisi sem semper erat, in consectetuer ipsum nunc",
+		"numberrange": 6,
+		"currency": "$93.48"
+	},
+	{
+		"name": "Justin Knowles",
+		"phone": "(431) 516-1126",
+		"email": "dui.in.sodales@protonmail.org",
+		"address": "Ap #587-1633 Dolor Street",
+		"postalZip": "778812",
+		"list": 11,
+		"text": "Maecenas iaculis aliquet diam. Sed diam lorem, auctor quis, tristique",
+		"numberrange": 5,
+		"currency": "$9.79"
+	},
+	{
+		"name": "Kamal Park",
+		"phone": "1-575-482-1534",
+		"email": "mauris.nulla@yahoo.ca",
+		"address": "Ap #285-5127 Cras Rd.",
+		"postalZip": "18674",
+		"list": 9,
+		"text": "sem, consequat nec, mollis vitae, posuere at, velit. Cras lorem",
+		"numberrange": 1,
+		"currency": "$8.70"
+	},
+	{
+		"name": "Zelda Wall",
+		"phone": "1-377-416-0166",
+		"email": "ipsum.primis@yahoo.net",
+		"address": "771-1702 Eu Rd.",
+		"postalZip": "44938",
+		"list": 7,
+		"text": "hendrerit. Donec porttitor tellus non magna. Nam ligula elit, pretium",
+		"numberrange": 10,
+		"currency": "$77.81"
+	},
+	{
+		"name": "September Clemons",
+		"phone": "1-550-465-2258",
+		"email": "amet.orci@aol.ca",
+		"address": "Ap #871-6839 Risus Street",
+		"postalZip": "84889",
+		"list": 17,
+		"text": "turpis. Aliquam adipiscing lobortis risus. In mi pede, nonummy ut,",
+		"numberrange": 4,
+		"currency": "$64.69"
+	}
+]
+
+}
